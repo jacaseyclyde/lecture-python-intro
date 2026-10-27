@@ -2,6 +2,8 @@
 
 An Undergraduate Lecture Series for the Foundations of Computational Economics
 
+> Annotated by Dr. Andrew Casey-Clyde, a physicist-turning-economist, as he completes the QuantEcon self-study courses.
+
 ## Jupyter notebooks
 
 Jupyter notebook versions of each lecture are available for download
